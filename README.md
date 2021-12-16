@@ -6,4 +6,4 @@ Este artigo descreve o projeto de automação do processo de irrigação de solo
 
 
 
-Aqui estão toda a documentação, codigos e o arquivo .ino, que foi desenvolvido no Software Arduino UNO. Para esta automação foi utilizado o módulo Wi-Fi NodeMCU ESP8266, que se conecta com o software MQTT Node-RED, onde estão as configurações do Broker. LEDs vermelho e verde foram colocados para ser um segundo output do status do solo. Sempre que o solo estiver seco, o led vermelho irá acender e a bomba d'água irá ser acionada. Para maiores informações: https://www.youtube.com/watch?v=0SB8fkbH3nk
+Aqui estão toda a documentação, codigos e o arquivo .ino, que foi desenvolvido no Software Arduino UNO. Para esta automação foi utilizado o módulo Wi-Fi NodeMCU ESP8266, que se conecta com o software MQTT Node-RED, onde estão as configurações do Broker. LEDs vermelho e verde foram colocados para ser um segundo output do status do solo. Sempre que o solo estiver seco, o led vermelho irá acender e a bomba d'água irá ser acionada. Para maiores informações: [Video](https://www.youtube.com/watch?v=PQvy8coqkTs)
